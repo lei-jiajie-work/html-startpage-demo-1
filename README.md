@@ -6,7 +6,7 @@ Startpage made with html, js, and css.
 
 You may append "@" and a number in front of your search query to specify which seach engine to use with your query.
 The default is duck duck go.
-By default the search engines are:
+By default, the search engines are:
 "https://www.google.com/search?q=", 
 "https://duckduckgo.com/?q=",
 "https://en.wikipedia.org/w/index.php?search=",
