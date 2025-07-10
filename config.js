@@ -1,5 +1,7 @@
 var config = {
     "sidebar-links" : {
+        "README.md" : "README.md",
+        "Repository" : "https://github.com/lei-jiajie-work/html-startpage-demo-1",
         "w3Schools" : "https://www.w3schools.com",
         "LoSpec" : "https://lospec.com/",
         "Godot" : "https://godotengine.org/",
